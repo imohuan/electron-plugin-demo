@@ -1,5 +1,5 @@
 module.exports = {
   hello() {
-    return "22" + Math.random();
+    return "更新版本 1.0.1";
   },
 };
