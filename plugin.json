@@ -3,7 +3,7 @@
   "icon": "",
   "hot": true,
   "debug": true,
-  "version": "1.0.5",
+  "version": "1.0.66",
   "description": "测试用",
   "script": "./main.js"
 }
